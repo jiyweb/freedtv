@@ -4,9 +4,11 @@
 #### 打开软件---自建接口,输入以下地址:
 #### https://gitee.com/gyhxx/freedtv/raw/master/
      https://gitee.com/jiyweb/freedtv/raw/master/
-#### 访问不正常的可用以下加速地址:
-#### https://raw.sevencdn.com/gyhxxx/freedtv/main/
+     
+#### 访问不正常的可用以下加速地址
      https://raw.sevencdn.com/jiyweb/freedtv/main/
+####  
+#### https://raw.sevencdn.com/gyhxxx/freedtv/main/
 #### 手机版加速地址:
 #### https://raw.sevencdn.com/gyhxxx/freedtv/main/sj/
 #### https://raw.sevencdn.com/jiyweb/freedtv/main/sj/
